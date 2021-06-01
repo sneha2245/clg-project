@@ -2,9 +2,11 @@
 
  https://sneha2245.github.io/clg-project/
  
-•	Duration : 1.5 week .
+- __Duration :__ 1.5 week .
 
-•	Technologies / Tools Used : HTML, CSS, JavaScript ,Notepad++ .
+- __Technologies / Tools Used :__ HTML, CSS, JavaScript ,Notepad++ .
 
-•	Description : We upgraded our college website to looks good . 
-		
+- __Description :__ We upgraded our college website to looks good . 
+
+- __Team Members :__ https://github.com/subirghosh77 , https://github.com/sneha2245/ 
+
